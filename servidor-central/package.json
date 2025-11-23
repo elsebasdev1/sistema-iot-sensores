@@ -1,0 +1,21 @@
+{
+  "name": "servidor-central",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@influxdata/influxdb-client": "^1.35.0",
+    "aedes": "^0.51.3",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mqtt": "^5.14.1",
+    "websocket-stream": "^5.5.2",
+    "ws": "^8.18.3"
+  }
+}
