@@ -24,7 +24,7 @@ analítica histórica y un **Gemelo Digital 3D** interactivo.
 
 <img width="3000" height="1760" alt="historico_sis_iot" src="https://github.com/user-attachments/assets/49ee1f37-1eeb-44de-9517-e98cae599fae" />
 
-### 🧊 Gemelo Digital 3D (Interactivo)
+### 🧊 Modelo Digital 3D (Interactivo)
 
 <img width="2800" height="1500" alt="192 168 1 3_5173_ (1)" src="https://github.com/user-attachments/assets/c1a1786d-edee-4a5e-ae13-c10114c47138" />
 
